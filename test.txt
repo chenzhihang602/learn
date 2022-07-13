@@ -1,0 +1,10 @@
+1001	Tom Jerry	2022-01-01	apple
+1001	Tom Jerry	2022-01-02	banana
+1001	Tom Jerry	2022-01	cherry
+1001	Tom Jerry	no value	orange 
+1001	Tom Jerry	no value	blueberry
+1002	Peppa Pig	2004-05-30	carrot
+1002	Peppa Pig	2004-05-31	cucumber 
+1002	Peppa Pig	2004-05	tomato
+1002	Peppa Pig	no value	potato
+1002	Peppa Pig	no value	egg
